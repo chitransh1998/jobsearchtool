@@ -1,0 +1,10 @@
+crewai
+streamlit
+PyPDF2
+sentence-transformers
+crewai_tools
+nltk
+json
+nltk
+torch
+plotly.express
