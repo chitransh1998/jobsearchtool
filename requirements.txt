@@ -4,6 +4,5 @@ PyPDF2
 sentence-transformers
 crewai_tools
 nltk==3.5
-json
 torch
 plotly.express
