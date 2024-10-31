@@ -3,8 +3,7 @@ streamlit
 PyPDF2
 sentence-transformers
 crewai_tools
-nltk
+nltk==3.5
 json
-nltk
 torch
 plotly.express
